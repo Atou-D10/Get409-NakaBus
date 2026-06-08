@@ -88,5 +88,5 @@
 
 - [x] Carte d'empathie complétée — `docs/carte-empathie.md`
 - [x] Énoncé HMW validé
-- [x] Commit GitHub effectué
+- [ ] Commit GitHub effectué
 
