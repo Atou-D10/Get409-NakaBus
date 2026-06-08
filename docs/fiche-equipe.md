@@ -7,7 +7,7 @@
 
 ---
 
-## Membres de l'équipe
+## Identite de l'equipe
 
 | CHamp | Details |
 |---|---|---|---|
@@ -55,4 +55,3 @@ NakaBus est un assistant WhatsApp qui envoie chaque matin à Aissatou l'heure ex
 - [x] Interview réalisée
 - [x] Carte d'empathie complétée
 - [x] HMW provisoire validé
-
