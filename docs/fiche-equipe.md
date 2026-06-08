@@ -7,26 +7,26 @@
 
 ---
 
-## Identite de l'equipe
+## Identité de l'équipe
 
-| CHamp | Details |
-|---|---|---|---|
-| [Nom de l'equipe] | GET409-Nakabus |
-| [Secteur cible] | Transport urbain |
-| [Projet fil rouge] | Systeme pour optimiser le temps d'attente des passagers de transport |
-| [Depot Github] | https://github.com/Atou-D10/Get409-NakaBus |
-| [Workspace Dify] | GET409-Nakabus |
+| Champ | Détail |
+| --- | --- |
+| Nom de l'équipe | GET409-NakaBus |
+| Secteur cible | Transport urbain |
+| Projet fil rouge | Système pour optimiser le temps d'attente des passagers de transport |
+| Dépôt GitHub | https://github.com/Atou-D10/Get409-NakaBus |
+| Workspace Dify | GET409-NakaBus |
 
 ---
 
 ## Membres de l'équipe
 
 | Prénom Nom | Rôle | GitHub | Responsabilité principale |
-|---|---|---|---|
-| [David MOKELE] | Chef de Produit (PM) | @[dmk0000] | Cadrage du projet, livrables |
-| [Ameth BA] | Master Prompt Engineer | @[Pameth] | Prompts, synthèses IA |
-| [Atou DIAGNE] | Dev UI (No-Code) | @[atou-d10] | Prototypage WhatsApp / No-code |
-| [Brahim FALL] | Responsable Impact | @[pseudo] | Métriques, validation terrain |
+| --- | --- | --- | --- |
+| David MOKELE | Chef de Produit (PM) | @dmk0000 | Cadrage du projet, livrables |
+| Ameth BA | Master Prompt Engineer | @Pameth | Prompts, synthèses IA |
+| Atou DIAGNE | Dev UI (No-Code) | @atou-d10 | Prototypage WhatsApp / No-code |
+| Brahim FALL | Responsable Impact | @[pseudo] | Métriques, validation terrain |
 
 ---
 
@@ -39,7 +39,7 @@ NakaBus est un assistant WhatsApp qui envoie chaque matin à Aissatou l'heure ex
 ## Secteur & contexte
 
 | Champ | Détail |
-|---|---|
+| --- | --- |
 | Secteur | Mobilité urbaine inclusive |
 | Zone géographique | Pikine → Plateau, Dakar, Sénégal |
 | Usagers cibles | Employés navetteurs de la banlieue dakaroise |
