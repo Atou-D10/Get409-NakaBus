@@ -46,11 +46,13 @@ y faire quoi que ce soit.
 
 ## Architecture du dépôt
 
+```
 GET409-NakaBus/
 ├── README.md
 └── docs/
-├── fiche-equipe.md
-└── carte-empathie.md
+    ├── fiche-equipe.md
+    └── carte-empathie.md
+```
 
 ---
 
