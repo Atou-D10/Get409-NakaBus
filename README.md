@@ -13,7 +13,7 @@
 | David MOKELE    | Chef de Produit (PM)   | @dmk0000    |
 | Ameth BA        | Master Prompt Engineer | @Pameth     |
 | Atou DIAGNE     | Dev UI (No-Code)       | @atou-d10   |
-| Brahim FALL     | Responsable Impact     | @pseudo     |
+| Brahim FALL     | Responsable Impact     | @Brahimfall     |
 
 ---
 
