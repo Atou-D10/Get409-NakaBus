@@ -26,7 +26,7 @@
 | David MOKELE | Chef de Produit (PM) | @dmk0000 | Cadrage du projet, livrables |
 | Ameth BA | Master Prompt Engineer | @Pameth | Prompts, synthèses IA |
 | Atou DIAGNE | Dev UI (No-Code) | @atou-d10 | Prototypage WhatsApp / No-code |
-| Brahim FALL | Responsable Impact | @[pseudo] | Métriques, validation terrain |
+| Brahim FALL | Responsable Impact | @Brahimfall | Métriques, validation terrain |
 
 ---
 
